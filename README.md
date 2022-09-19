@@ -1,6 +1,9 @@
 # About
 A tool for creating photo mosaics
 
+https://user-images.githubusercontent.com/110372394/190942914-d4f81f2e-f395-4690-bbf2-2b1ec93b6a95.mp4
+
+
 # Initial setting
 Install the dependency packages by running the following command.
 ``` bash
@@ -37,7 +40,7 @@ $ python main.py -s images/lena.jpg
 |param name|about|
 |---|---|
 |height|height of the mosaic area|
-|width|width of the mosaic are幅|
+|width|width of the mosaic area|
 |horizon|horizontal size of each mosaic cell|
 |vertical|vertical size of each mosaic cell|
 |opacity|opacity of mosaic|
